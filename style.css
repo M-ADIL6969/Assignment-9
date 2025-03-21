@@ -1,0 +1,15 @@
+.flag {
+    width: 240px;
+    height: 160px;
+    border: 2px solid black;
+}
+
+.red, .blue, .yellow, .green {
+    width: 100%;
+    height: 40px; /* Each stripe is 1/4th of the total height */
+}
+
+.red { background-color: #EA1C2C; }
+.blue { background-color: #272c70; }
+.yellow { background-color: #FFD500; }
+.green { background-color: #00A650; }
